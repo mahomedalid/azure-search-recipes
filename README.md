@@ -10,7 +10,7 @@ Use the script deploy.sh to create blue/green instances of the same search index
 Example:
 
 ```
-$ ./deploy.sh ABCDABCD12341234 my-search prod blue'
+$ ./deploy.sh ABCDABCD12341234 my-search prod blue
 ```
 
 Pre-requisites: 
