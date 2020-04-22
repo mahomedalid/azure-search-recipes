@@ -1,7 +1,11 @@
-# azure-search-recipes
+# Azure Search Recipes and Utils
 
 
 # Deploy Script
+
+How to rebuild an Azure Search Index without downtime.
+
+![azuresearchdesign](assets/bluegreenindex.png)
 
 ## Deploy Azure Search Index and Indexer changes
 
